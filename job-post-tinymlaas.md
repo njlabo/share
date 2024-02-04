@@ -1,21 +1,19 @@
 #  Full Stack Developer for TinyMLaaS Platform
 
-## Overview of the Role
-[NinjaLABO](https://ninjalabo.ai), a new AI startup funded
+## Role Overview
+[NinjaLABO](https://ninjalabo.ai), an AI startup funded
 by the [European Space Agency](https://www.esa.int/) (ESA)
-and specializing in "Embedded MLOps",
+and specializing in [Embedded MLOps](https://harvard-edge.github.io/cs249r_book/contents/ops/ops.html#traditional-mlops-vs.-embedded-mlops),
 is seeking a **Full Stack Developer**.
 This role offers the exciting opportunity to contribute to our TinyML as-a-Service (TinyMLaaS) platform
-([paper](https://ieeexplore.ieee.org/document/9427352) & [demo](https://youtu.be/zPPVzjHHE10?si=ZOgAsr0PSt7xAt15)).
-Your work will directly impact the accessibility of [TinyML](https://www.tinyml.org/) technologies.
+([research](https://ieeexplore.ieee.org/document/9427352) & [demonstration](https://youtu.be/zPPVzjHHE10?si=ZOgAsr0PSt7xAt15)).
+Your work will directly impact the accessibility of [TinyML](https://www.tinyml.org/) technologies, which run small AI on microcontrollers in IoT devices.
 
-## What We're Looking For
+## Desired Skills and Experience
 
-- Familiar with Python.
-- Experienced in some backend development, preferably with
-  [FastAPI](https://fastapi.tiangolo.com/) but other frameworks are OK too.
-- Motivated in frontend development, creating simple user interfaces
-  for customer workflow.
+1. Proficiency in Python programming is essential.
+2. Experience in backend development, with a preference for [FastAPI](https://fastapi.tiangolo.com/). Knowledge of other frameworks is also valuable.
+3. A keen interest in frontend development, with the ability to design straightforward user interfaces that streamline customer processes.
 
 
 ## Your Role and Responsibilities
@@ -37,16 +35,13 @@ Your work will directly impact the accessibility of [TinyML](https://www.tinyml.
   
 - **Integration with AI SaaS and Cloud Services**: Work on integrating the
   platform with leading AI SaaS and cloud services, including [Hugging
-  Face](https://huggingface.co/) and [Docker Hub](https://hub.docker.com/). This involves not only incorporating these
-  services into our platform but also ensuring they function cohesively
-  to expand our offering and elevate the user experience.
-
+  Face](https://huggingface.co/) and [Docker Hub](https://hub.docker.com/).
 
 
 ## Bonus Skills
-- Experience in automating CLI generation from [OpenAPI](https://www.openapis.org/) specification files.
 - Experience with cloud infrastructure and services [Hugging Face](https://huggingface.co/), [Weights
-& Biases](https://wandb.ai/)
+& Biases](https://wandb.ai/) 
+- Experience in automating CLI generation from [OpenAPI](https://www.openapis.org/) specification files.
 - Experience in training DNN models using [Pytorch](https://pytorch.org/) (or [TensorFlow](https://www.tensorflow.org/)).
 - Proficient in integrating a variety of cloud services and AI SaaS platforms, such as [Hugging Face](https://huggingface.co/) and [W&B](https://wandb.ai/), into our backend infrastructure. 
 

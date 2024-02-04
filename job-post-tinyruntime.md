@@ -7,28 +7,33 @@ to become a key technical contributor at an innovative AI startup
 backed by the [European Space Agency](https://www.esa.int/) (ESA)?
 
 Join us at [NinjaLABO](https://ninjalabo.ai),
-where we're developing DNN runtime for IoT devices,
+where we're developing DNN runtimes for IoT devices,
 to be integrated into our TinyML as-a-Service (TinyMLaaS) platform
-([paper](https://ieeexplore.ieee.org/document/9427352) &
-[demo](https://youtu.be/zPPVzjHHE10?si=ZOgAsr0PSt7xAt15)).
-Your work will directly impact the accessibility of [TinyML](https://www.tinyml.org/) technologies.
+([research](https://ieeexplore.ieee.org/document/9427352) &
+[demonstration](https://youtu.be/zPPVzjHHE10?si=ZOgAsr0PSt7xAt15)).
+Your work will directly impact the accessibility of [TinyML](https://www.tinyml.org/) technologies, which run small AI on microcontrollers in IoT devices.
 
 ## What We Need to See
-- Familiar with training DNN models using [Pytorch](https://pytorch.org/) (or [TensorFlow](https://www.tensorflow.org/)).
-- Good at C (or C++) programming.
+1. Good at C (or C++) programming.
+2. Familiar with training DNN models using [Pytorch](https://pytorch.org/) (or [TensorFlow](https://www.tensorflow.org/)).
 
 ## What You'll Be Doing
 Have a role in the development of DNN runtimes,
 focusing on hands-on code contributions with DevOps.
 
-- Train DNN models
+- Train DNN models with [quantization](https://en.wikipedia.org/wiki/Quantization) techniques.
 - Implement DNN **runtime**s for specific DNN models
 
 
 ## Bonus Skills
 [OpenMP](https://en.wikipedia.org/wiki/OpenMP#:~:text=OpenMP%20(Open%20Multi%2DProcessing),Linux%2C%20macOS%2C%20and%20Windows.),
-[CUDA](https://developer.nvidia.com/cuda-toolkit),
-[TensorFlow Lite For Micro](https://www.tensorflow.org/lite/microcontrollers) (TFLM)
+[TensorFlow Lite For Micro](https://www.tensorflow.org/lite/microcontrollers) (TFLM),
+[Llama.cpp](https://github.com/ggerganov/llama.cpp) /
+[Whisper.cpp](https://github.com/ggerganov/whisper.cpp) /
+[GGML](https://github.com/ggerganov/ggml) /
+[Llama2.c](https://github.com/karpathy/llama2.c),
+[CUDA](https://developer.nvidia.com/cuda-toolkit)
+
 
 ## Your Work Environment
 - Fully remote position utilizing [SCRUM](https://www.scrum.org/) methodology.
