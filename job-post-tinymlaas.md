@@ -39,11 +39,11 @@ Your work will directly impact the accessibility of [TinyML](https://www.tinyml.
 
 
 ## Bonus Skills
-- Experience with cloud infrastructure and services [Hugging Face](https://huggingface.co/), [Weights
-& Biases](https://wandb.ai/) 
+- Experience with cloud infrastructure and services. E.g. [Hugging Face](https://huggingface.co/), [Weights& Biases](https://wandb.ai/), [AWS](https://aws.amazon.com/)
 - Experience in automating CLI generation from [OpenAPI](https://www.openapis.org/) specification files.
 - Experience in training DNN models using [Pytorch](https://pytorch.org/) (or [TensorFlow](https://www.tensorflow.org/)).
-- Proficient in integrating a variety of cloud services and AI SaaS platforms, such as [Hugging Face](https://huggingface.co/) and [W&B](https://wandb.ai/), into our backend infrastructure. 
+- Experience in [Docker SDK for Python](https://docker-py.readthedocs.io/en/stable/)
+
 
 
 ## Your Work Environment
