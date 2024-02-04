@@ -1,23 +1,27 @@
 #  Full Stack Developer for TinyMLaaS Platform
 
 ## Overview of the Role
-[NinjaLABO](https://ninjalabo.ai),
-a new AI startup funded by the [European Space Agency](https://www.esa.int/) (ESA)
-and specializing in **Embedded AI**, is seeking an experienced Full
-Stack Developer. This role offers the exciting opportunity to contribute
-significantly to our TinyML as-a-Service (TinyMLaaS) platform
+[NinjaLABO](https://ninjalabo.ai), a new AI startup funded
+by the [European Space Agency](https://www.esa.int/) (ESA)
+and specializing in "Embedded MLOps",
+is seeking a **Full Stack Developer**.
+This role offers the exciting opportunity to contribute to our TinyML as-a-Service (TinyMLaaS) platform
 ([paper](https://ieeexplore.ieee.org/document/9427352) & [demo](https://youtu.be/zPPVzjHHE10?si=ZOgAsr0PSt7xAt15)).
-Your work will directly impact the accessibility of [TinyML](https://www.tinyml.org/) technologies,
-integrating seamlessly with leading AI SaaS like [Hugging Face](https://huggingface.co/), [Weights
-& Biases](https://wandb.ai/), and utilizing cloud services such as [Docker API](https://docs.docker.com/engine/api/).
+Your work will directly impact the accessibility of [TinyML](https://www.tinyml.org/) technologies.
+
+## What We're Looking For
+
+- Familiar with Python.
+- Experienced in some backend development, preferably with
+  [FastAPI](https://fastapi.tiangolo.com/) but other frameworks are OK too.
+- Motivated in frontend development, creating simple user interfaces
+  for customer workflow.
 
 
 ## Your Role and Responsibilities
 
 - **Backend Development**: Initiate the project by focusing on creating a
-  robust and scalable backend using [FastAPI](https://fastapi.tiangolo.com/). This foundational work is
-  essential for ensuring the platform's stability, performance, and
-  security.
+  robust and scalable backend using [FastAPI](https://fastapi.tiangolo.com/).
   
 - **Frontend Development**: After establishing the backend, shift
   attention to the frontend, employing [Streamlit](https://streamlit.io/) or [stlite](https://github.com/whitphx/stlite). The aim
@@ -39,27 +43,12 @@ integrating seamlessly with leading AI SaaS like [Hugging Face](https://huggingf
 
 
 
-## What We're Looking For
-
-- Experienced in backend development, especially with expertise in [FastAPI](https://fastapi.tiangolo.com/).
-- Proficient in integrating a variety of cloud services and AI SaaS platforms, such as [Hugging Face](https://huggingface.co/) and [W&B](https://wandb.ai/), into our backend infrastructure. 
-- Knowledgeable in frontend development, capable of creating simple
-  user interfaces using Streamlit or stlite. The frontend development
-  will complement the backend services by translating complex
-  functionalities into user-friendly workflows.
-- Skilled in automating CLI generation from [OpenAPI](https://www.openapis.org/) specification files.
-
-This profile is tailored for a developer who excels in backend and
-cloud services integration, viewing these elements as the critical
-foundation of the platform, and who can then effectively apply their
-skills to frontend development to create a cohesive, user-focused
-experience.
-
-
 ## Bonus Skills
+- Experience in automating CLI generation from [OpenAPI](https://www.openapis.org/) specification files.
 - Experience with cloud infrastructure and services [Hugging Face](https://huggingface.co/), [Weights
 & Biases](https://wandb.ai/)
 - Experience in training DNN models using [Pytorch](https://pytorch.org/) (or [TensorFlow](https://www.tensorflow.org/)).
+- Proficient in integrating a variety of cloud services and AI SaaS platforms, such as [Hugging Face](https://huggingface.co/) and [W&B](https://wandb.ai/), into our backend infrastructure. 
 
 
 ## Your Work Environment

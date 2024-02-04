@@ -1,41 +1,32 @@
 # Embedded AI developer for DNN runtime
 
 ## About the Job
-Are you a skilled software engineer with expertise in Embedded systems
+Are you a passionate software engineer with interest in Embedded systems
 (IoT) and Deep Neural Networks (DNN), seeking a thrilling opportunity
 to become a key technical contributor at an innovative AI startup
 backed by the [European Space Agency](https://www.esa.int/) (ESA)?
 
-Join us at [NinjaLABO](https://ninjalabo.ai), where we're developing tiny DNN runtime,
-focusing on crafting minimalistic DNN inference-only engines renowned
-for their efficiency and compact footprint, tailored for specific DNN
-models and IoT devices. This would be leading to the Machine Learning
-Compiler ([ML Compiler](https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/))
-products eventually under our TinyML as-a-Service (TinyMLaaS) platform
-([paper](https://ieeexplore.ieee.org/document/9427352) & [demo](https://youtu.be/zPPVzjHHE10?si=ZOgAsr0PSt7xAt15)).
-
-
-## What You'll Be Doing
-Have a leading role in the development of DNN runtimes, focusing on
-hands-on code contributions in diverse software engineering
-environments.
-
-- Train DNN models with [quantization](https://en.wikipedia.org/wiki/Quantization) techniques.
-- Develop efficient, concise **runtimes** for specific DNN models and hardware configurations.
-
+Join us at [NinjaLABO](https://ninjalabo.ai),
+where we're developing DNN runtime for IoT devices,
+to be integrated into our TinyML as-a-Service (TinyMLaaS) platform
+([paper](https://ieeexplore.ieee.org/document/9427352) &
+[demo](https://youtu.be/zPPVzjHHE10?si=ZOgAsr0PSt7xAt15)).
+Your work will directly impact the accessibility of [TinyML](https://www.tinyml.org/) technologies.
 
 ## What We Need to See
-- Experience in training DNN models using [Pytorch](https://pytorch.org/) (or [TensorFlow](https://www.tensorflow.org/)).
-- Strong command of C/C++ programming.
+- Familiar with training DNN models using [Pytorch](https://pytorch.org/) (or [TensorFlow](https://www.tensorflow.org/)).
+- Good at C (or C++) programming.
+
+## What You'll Be Doing
+Have a role in the development of DNN runtimes,
+focusing on hands-on code contributions with DevOps.
+
+- Train DNN models
+- Implement DNN **runtime**s for specific DNN models
+
 
 ## Bonus Skills
-[Llama.cpp](https://github.com/ggerganov/llama.cpp)
-/[Whisper.cpp](https://github.com/ggerganov/whisper.cpp) /
-[GGML](https://github.com/ggerganov/ggml) /
-[Llama2.c](https://github.com/karpathy/llama2.c),
 [OpenMP](https://en.wikipedia.org/wiki/OpenMP#:~:text=OpenMP%20(Open%20Multi%2DProcessing),Linux%2C%20macOS%2C%20and%20Windows.),
-[MLIR](https://mlir.llvm.org/),
-[Apache TVM](https://tvm.apache.org/),
 [CUDA](https://developer.nvidia.com/cuda-toolkit),
 [TensorFlow Lite For Micro](https://www.tensorflow.org/lite/microcontrollers) (TFLM)
 
