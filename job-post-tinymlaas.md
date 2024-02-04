@@ -15,7 +15,7 @@ integrating seamlessly with leading AI SaaS like [Hugging Face](https://huggingf
 ## Your Role and Responsibilities
 
 - **Backend Development**: Initiate the project by focusing on creating a
-  robust and scalable backend using FastAPI. This foundational work is
+  robust and scalable backend using [FastAPI](https://fastapi.tiangolo.com/). This foundational work is
   essential for ensuring the platform's stability, performance, and
   security.
   
@@ -41,7 +41,7 @@ integrating seamlessly with leading AI SaaS like [Hugging Face](https://huggingf
 
 ## What We're Looking For
 
-- Deeply experienced in backend development, with expertise in FastAPI.
+- Experienced in backend development, especially with expertise in [FastAPI](https://fastapi.tiangolo.com/).
 - Proficient in integrating a variety of cloud services and AI SaaS platforms, such as [Hugging Face](https://huggingface.co/) and [W&B](https://wandb.ai/), into our backend infrastructure. 
 - Knowledgeable in frontend development, capable of creating simple
   user interfaces using Streamlit or stlite. The frontend development
