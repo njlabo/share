@@ -32,7 +32,12 @@ focusing on hands-on code contributions with DevOps.
 [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) /
 [GGML](https://github.com/ggerganov/ggml) /
 [Llama2.c](https://github.com/karpathy/llama2.c),
-[CUDA](https://developer.nvidia.com/cuda-toolkit)
+[CUDA](https://developer.nvidia.com/cuda-toolkit),
+[MLIR](https://mlir.llvm.org/),
+[Apache TVM](https://tvm.apache.org/),
+[Mojo](https://www.modular.com/max/mojo)
+
+
 
 
 ## Your Work Environment
