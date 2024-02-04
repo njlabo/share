@@ -47,7 +47,7 @@ integrating seamlessly with leading AI SaaS like [Hugging Face](https://huggingf
   user interfaces using Streamlit or stlite. The frontend development
   will complement the backend services by translating complex
   functionalities into user-friendly workflows.
-- Skilled in automating CLI generation from [OPenAPI](https://www.openapis.org/) specification files.
+- Skilled in automating CLI generation from [OpenAPI](https://www.openapis.org/) specification files.
 
 This profile is tailored for a developer who excels in backend and
 cloud services integration, viewing these elements as the critical
