@@ -11,8 +11,8 @@ focusing on crafting minimalistic DNN inference-only engines renowned
 for their efficiency and compact footprint, tailored for specific DNN
 models and IoT devices. This would be leading to the Machine Learning
 Compiler ([ML Compiler](https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/))
-products eventually under our [TinyML as-a-Service](https://ieeexplore.ieee.org/document/9427352)
-(TinyMLaaS).
+products eventually under our TinyML as-a-Service (TinyMLaaS) platform
+([paper](https://ieeexplore.ieee.org/document/9427352) & [demo](https://youtu.be/zPPVzjHHE10?si=ZOgAsr0PSt7xAt15)).
 
 
 ## What You'll Be Doing
