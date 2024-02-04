@@ -35,7 +35,8 @@ focusing on hands-on code contributions with DevOps.
 [CUDA](https://developer.nvidia.com/cuda-toolkit),
 [MLIR](https://mlir.llvm.org/),
 [Apache TVM](https://tvm.apache.org/),
-[Mojo](https://www.modular.com/max/mojo)
+[Mojo](https://www.modular.com/max/mojo),
+[tinygrad](https://github.com/tinygrad/tinygrad)
 
 
 
