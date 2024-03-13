@@ -14,7 +14,7 @@ to be integrated into our TinyML as-a-Service (TinyMLaaS) platform
 Your work will directly impact the accessibility of [TinyML](https://www.tinyml.org/) technologies, which run small AI on microcontrollers in IoT devices.
 
 ## What We Need to See
-1. Good at C (or C++) programming.
+1. Good at C/C++ programming.
 2. Familiar with training DNN models using [Pytorch](https://pytorch.org/) (or [TensorFlow](https://www.tensorflow.org/)).
 
 ## What You'll Be Doing
